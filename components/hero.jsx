@@ -45,7 +45,7 @@ const HeroSection = () => {
       <Link href="/dashboard">
         <Button size="lg" className="px-8">Get Started</Button>
       </Link>
-      <Link href="http://localhost:3001/">
+      <Link href="https://vrclassroom.onrender.com/">
         <Button size="lg" variant="outline" className="px-8">Live Mentorship!</Button>
       </Link>
     </div>
